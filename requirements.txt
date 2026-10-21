@@ -1,0 +1,13 @@
+streamlit
+pymupdf
+pillow
+requests
+python-dotenv
+moviepy
+gTTS
+pytesseract
+torch
+transformers
+accelerate
+sentencepiece
+diffusers
